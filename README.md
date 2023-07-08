@@ -23,10 +23,15 @@
    ```Bash
    pip install openai
 
-6. Copy your ChatGPT API key and paste it into "Your ChatGPT API Key".
-7. In the command prompt, run imitator_bot.py using the following command:
+6. Open the file imitator_bot.py, then copy your ChatGPT API key and paste it into "Your ChatGPT API Key".
+7. In the command prompt, navigate to the folder in which the file imitator_bot.py is located. For example:
+
+   ```Bash
+   cd /users/user_name/Downloads/Imitator-Bot-Main
+   
+9. Run imitator_bot.py using the following command:
 
    ```Bash
    python imitator_bot.py
    
-8. Open your web browser and go to http://127.0.0.1:5000 to access the chatbot.
+10. Open your web browser and go to http://127.0.0.1:5000 to access the chatbot.
