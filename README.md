@@ -23,7 +23,7 @@
    ```Bash
    pip install openai
 
-6. Copy your ChatGPT API Key and paste it onto "Your ChatGPT API Key".
+6. Copy your ChatGPT API key and paste it into "Your ChatGPT API Key".
 7. In the command prompt, run imitator_bot.py using the following command:
 
    ```Bash
