@@ -29,9 +29,9 @@
    ```Bash
    cd /users/user_name/Downloads/Imitator-Bot-Main
    
-9. Run imitator_bot.py using the following command:
+8. Run imitator_bot.py using the following command:
 
    ```Bash
    python imitator_bot.py
    
-10. Open your web browser and go to http://127.0.0.1:5000 to access the chatbot.
+9. Open your web browser and go to http://127.0.0.1:5000 to access the chatbot.
