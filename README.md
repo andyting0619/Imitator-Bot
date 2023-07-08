@@ -4,7 +4,7 @@
 - http://imitatorbot.pythonanywhere.com
 # Requirement
 - Python 3.9 or higher
-- ChatGPT API Key
+- ChatGPT API key
 # How to Use
 1. Download the files.
 2. Run the command prompt as an administrator.
