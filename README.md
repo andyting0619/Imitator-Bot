@@ -28,3 +28,5 @@
 
    ```Bash
    pip install imitator_bot.py
+   
+8. Open your web browser and go to http://127.0.0.1:5000 to access the chatbot.
