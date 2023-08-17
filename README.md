@@ -1,4 +1,4 @@
-# Imitator-Bot
+# Imitator Bot
 - A chatbot that uses the ChatGPT API.
 # The Link to the Web Application
 - http://imitatorbot.pythonanywhere.com
