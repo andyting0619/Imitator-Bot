@@ -25,7 +25,7 @@ def get_data():
         try:
             history.append(input)
             response = openai.Completion.create(
-                model='gpt-3.5-instruct',
+                model='gpt-3.5-turbo-instruct',
                 prompt='\n'.join(history),
                 temperature=0,
                 max_tokens=128)
