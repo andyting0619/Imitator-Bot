@@ -3,7 +3,7 @@
 # The Link to the Web Application
 - http://imitatorbot.pythonanywhere.com
 # Requirements
-- Python 3.6 or higher
+- Python 3.7 or higher
 - ChatGPT API key
 # How to Use
 1. Download and extract the files.
